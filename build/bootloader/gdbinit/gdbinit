@@ -1,0 +1,2 @@
+source /home/jbemis/Tech_Projects/Embedded Projects/Wifi-Weather-Station/build/bootloader/gdbinit/symbols
+source /home/jbemis/Tech_Projects/Embedded Projects/Wifi-Weather-Station/build/bootloader/gdbinit/connect

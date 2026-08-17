@@ -1,0 +1,18 @@
+{
+  "idf.currentSetup": "/home/jbemis/.espressif/v6.0.2/esp-idf",
+  "clangd.path": "/home/jbemis/.espressif/tools/esp-clang/esp-20.1.1_20250829/esp-clang/bin/clangd",
+  "clangd.arguments": [
+    "--background-index",
+    "--query-driver=**",
+    "--compile-commands-dir=/home/jbemis/Tech_Projects/Embedded Projects/Wifi-Weather-Station/build"
+  ],
+  "idf.openOcdConfigs": [
+    "board/esp32s3-builtin.cfg"
+  ],
+  "idf.flashType": "UART",
+  "idf.port": "/dev/ttyACM0",
+  "idf.customExtraVars": {
+    "IDF_TARGET": "esp32s3",
+    "OPENOCD_USB_ADAPTER_LOCATION": "1-3"
+  }
+}

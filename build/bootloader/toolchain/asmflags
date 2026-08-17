@@ -1,0 +1,5 @@
+"-specs=/home/jbemis/Tech_Projects/Embedded Projects/Wifi-Weather-Station/build/bootloader/specs/picolibc.specs"
+-mlongcalls
+-fno-builtin-memcpy
+-fno-builtin-memset
+-fno-builtin-bzero
